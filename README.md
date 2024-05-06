@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JBaurel
+- 👀 I’m interested in Web Dev/Data Science. May be in the future , i will adjust it 😄
+- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 💞️ I’m looking to collaborate on divers project
+- 📫 How to reach me : junior...
+- 😄 Pronouns: Just Me
+- ⚡ Fun fact: Laugh ist the best way to communicate
+
+- <!-- Some of my Prpjects -->
+-   A qoute Generator
+-   Infinity scroll
+-   Picture in Picture
+-   Joke Teller
